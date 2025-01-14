@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331372808929",
+    "project_id": "universityapp-8f815",
+    "storage_bucket": "universityapp-8f815.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331372808929:android:504c63f4d37d368a8685a0",
+        "android_client_info": {
+          "package_name": "com.myUniApp.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPK9pnS4xxc52GuJm0JMG8eglTRl0Fo5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
